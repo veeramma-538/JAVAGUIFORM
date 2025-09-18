@@ -32,31 +32,34 @@ JAVAGUIFORM/
 
 ---
 
-## ▶️ How to Run  
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/veeramma-538/JAVAGUIFORM.git
-   cd JAVAGUIFORM
-Open the project in your preferred IDE (NetBeans / IntelliJ / Eclipse).
+## ▶️ How to Run in VS Code  
 
-Compile and run the MainForm.java file.
+1️⃣ Install Requirements  
+- Install [Java JDK](https://adoptium.net/) (8 or later)  
+- Install [Visual Studio Code](https://code.visualstudio.com/)  
+- Install the **Java Extension Pack** from VS Code Marketplace  
 
-The GUI form window will appear.
+2️⃣ Clone the Project  
+```bash
+git clone https://github.com/veeramma-538/JAVAGUIFORM.git
+cd JAVAGUIFORM
+
+3️⃣Open in VS Code
+Open the folder JAVAGUIFORM in VS Code
+Make sure src is marked as a source folder
+
+4️⃣ Run the Program
+Open MainForm.java
+Right-click → Run Java
+Or use the VS Code Run button (▶)
+A GUI form window will open 🚀.
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
 
 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License – you are free to use, modify, and distribute it.
 
-✨ Built with ❤️ using Java Swing
+✨ Built with ❤️ using Java Swing in VS Code
 
-
-
-
-
-
-
-
-Ask ChatGPT
