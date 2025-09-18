@@ -18,7 +18,7 @@ This project is useful for beginners who want to learn how to design forms, hand
 ## 🛠️ Technologies Used  
 - **Java** (Core + Swing)  
 - **JDK 8 or later**  
-- **NetBeans / IntelliJ IDEA / Eclipse** (any IDE that supports Java Swing)  
+- **Visual Studio Code** with Java Extensions  
 
 ---
 
