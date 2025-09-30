@@ -40,7 +40,7 @@ JAVAGUIFORM/
 - Install the **Java Extension Pack** from VS Code Marketplace  
 
 2️⃣ Clone the Project  
-```bash
+bash
 git clone https://github.com/veeramma-538/JAVAGUIFORM.git
 cd JAVAGUIFORM
 
