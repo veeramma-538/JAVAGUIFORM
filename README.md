@@ -44,26 +44,35 @@ JAVAGUIFORM/
 
 
 git clone https://github.com/veeramma-538/JAVAGUIFORM.git
+
 cd JAVAGUIFORM
 
 3️⃣Open in VS Code
 
 Open the folder JAVAGUIFORM in VS Code
+
 Make sure src is marked as a source folder
 
 4️⃣ Run the Program
 
 Open MainForm.java
+
 Right-click → Run Java
+
 Or use the VS Code Run button (▶)
+
 A GUI form window will open 🚀.
 
 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
+
 Feel free to fork this repo and submit a pull request.
 
 📜 License
+
 This project is licensed under the MIT License – you are free to use, modify, and distribute it.
+
 
 ✨ Built with ❤️ using Java Swing in VS Code
 
