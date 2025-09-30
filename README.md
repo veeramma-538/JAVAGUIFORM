@@ -35,20 +35,24 @@ JAVAGUIFORM/
 ## ▶️ How to Run in VS Code  
 
 1️⃣ Install Requirements  
+
 - Install [Java JDK](https://adoptium.net/) (8 or later)  
 - Install [Visual Studio Code](https://code.visualstudio.com/)  
 - Install the **Java Extension Pack** from VS Code Marketplace  
 
 2️⃣ Clone the Project  
-bash
+
+
 git clone https://github.com/veeramma-538/JAVAGUIFORM.git
 cd JAVAGUIFORM
 
 3️⃣Open in VS Code
+
 Open the folder JAVAGUIFORM in VS Code
 Make sure src is marked as a source folder
 
 4️⃣ Run the Program
+
 Open MainForm.java
 Right-click → Run Java
 Or use the VS Code Run button (▶)
